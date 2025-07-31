@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>11</maven.compiler.release>
         <payara-micro.version>6.2025.7</payara-micro.version>
-        <payara-micro-maven-plugin.version>2.4</payara-micro-maven-plugin.version>
+        <payara-micro-maven-plugin.version>2.5</payara-micro-maven-plugin.version>
     </properties>
 
     <modules>
